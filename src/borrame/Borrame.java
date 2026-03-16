@@ -14,7 +14,7 @@ public class Borrame {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hoy es lunes");
+        System.out.println("Hoy es lunes dia 16 de marzo");
     }
     
 }
